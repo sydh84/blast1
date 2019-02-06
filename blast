@@ -1,0 +1,78 @@
+
+<html lang="en">
+    
+    <head>
+        <title>Crown Nissan of Greenville | Sales Email</title>
+        <meta charset="UTF-8">
+        <meta content="IE=edge" http-equiv="X-UA-Compatible">
+        <link href="https://fonts.googleapis.com/css?family=Raleway:300,400" rel="stylesheet">
+        <link rel="stylesheet" href="http://www.shwrites.com/blast.css">
+        </head>
+        <body>
+            <div id="container">
+            <div id="top">
+                <div id="header">
+                    <div id="header-left">
+                        <a href="https://www.courtesytoyota.com"><img src="https://wd.eleadcrm.com/evo2/companies/SCCRWNGVL/Images/nog_horizontal.png" width="250"></a>
+                    </div>
+                        <div id="header-right">
+                            <a style="font-weight:100;color:#c71633;" href="{new-inventory/index.htm">New</a> | <a style="font-weight:100;color:#c71633;" href="used-inventory/index.htm">Used</a> | <a style="font-weight:100;color:#c71633;" href="/service/schedule-appointment.htm">Schedule Service</a>
+                        </div>
+                 </div>
+      
+            </div>
+            <div id="content">
+                <div class="left">
+                <img src="/money-512.png">
+                </div>
+                <div class="right">
+                    <h2>We'll match your tax refund up to $1000.</h2>
+                <p>When you use toward a down payment toward a new Nissan at Crown Nissan of Greenville. Make your tax refund go further today!                <a href="https://www.crowngreenvillenissan.com/financing/prequalification.htm">Get Prequalified &raquo;</a></p>
+                </div>
+                
+           
+            
+            </div>
+            
+             <div class="email-box">
+                <div class="left"><img src="https://images.dealer.com/ddc/vehicles/2019/Nissan/Versa/Sedan/trim_16_S_93baa0/color/Brilliant%20Silver-K23-188%2C188%2C188-640-en_US.jpg"></div>
+                <div class="right"><span class="carname">2019 Nissan Versa</span><br />
+                MSRP: <span class="msrp">$19,000</span><br />
+                <span class="price">Your Price: $16,500</span><br />
+                <span class="desc">Stock #: XC123456 | 1 at this price</span>
+                                <a href="#">Shop Now &raquo;</a>
+                </div>
+
+            </div>
+            
+              <div class="email-box">
+                <div class="left"><img src="https://images.dealer.com/ddc/vehicles/2019/Nissan/Versa/Sedan/trim_16_S_93baa0/color/Brilliant%20Silver-K23-188%2C188%2C188-640-en_US.jpg">
+                </div>
+                <div class="right">
+                    <span class="carname">2019 Nissan Versa</span><br />
+                MSRP: <span class="msrp">$19,000</span><br />
+                <span class="price">Your Price: $16,500</span><br />
+                <span class="desc">Stock #: XC123456 | 1 at this price</span>
+                                <a href="#">Shop Now &raquo;</a>
+                </div>
+
+            </div>
+            
+              <div class="email-box">
+                <div class="left"><img src="https://images.dealer.com/ddc/vehicles/2019/Nissan/Versa/Sedan/trim_16_S_93baa0/color/Brilliant%20Silver-K23-188%2C188%2C188-640-en_US.jpg"></div>
+                <div class="right"><span class="carname">2019 Nissan Versa</span><br />
+                MSRP: <span class="msrp">$19,000</span><br />
+                <span class="price">Your Price: $16,500</span><br />
+                <span class="desc">Stock #: XC123456 | 1 at this price</span>
+                                <a href="#">Shop Now &raquo;</a>
+                </div>
+
+            </div>
+            
+            <div id="footer"><p class="location">Located on the Motor Mile in Greenville.</p>
+            <p class="address">2712 Laurens Road | Greenville, SC 29607 | 866.555.1212</p></div>
+            </div>
+
+
+        </body>
+        </html>
